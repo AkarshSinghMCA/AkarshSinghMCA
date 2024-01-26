@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on fellow mates, fellow developers
 - 📫 How to reach me akarsh360@gmail.com
 - 😄 Pronouns: None
-- ⚡ Fun fact: Want to earn more n more
+- ⚡ Fun fact: Want to learn more n more
 
 <!---
 AkarshSinghMCA/AkarshSinghMCA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
